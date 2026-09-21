@@ -10,12 +10,7 @@
         }
     },
     "extract_to": "",
-    "shortcuts": [
-        [
-            "RadiRec.exe",
-            "RadiRec"
-        ]
-    ],
+    "bin": "RadiRec.exe",
     "checkver": {
         "url": "https://dogaradi.com/dl-radirec/",
         "regex": "らじれこ Ver ([\\d.]+)"
