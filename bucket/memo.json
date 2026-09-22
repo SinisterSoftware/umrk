@@ -1,0 +1,13 @@
+{
+    "version": "0.0.22",
+    "description": "Memo Life For You",
+    "homepage": "https://github.com/mattn/memo/",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mattn/memo/releases/download/v0.0.22/memo_v0.0.22_windows_amd64.zip",
+            "hash": "5b15f2ffee23d4504611e47d5c90807b749f589c2e719f1537f8300c70f1472d"
+        }
+    },
+    "bin": "memo.exe"
+}
