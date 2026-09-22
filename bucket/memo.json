@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/mattn/memo/releases/download/v0.0.22/memo_v0.0.22_windows_amd64.zip",
-            "hash": "5b15f2ffee23d4504611e47d5c90807b749f589c2e719f1537f8300c70f1472d"
+            "hash": "5B15F2FFEE23D4504611E47d5C90807B749F589C2E719F1537F8300C70F1472D"
         }
     },
     "bin": "memo.exe"
