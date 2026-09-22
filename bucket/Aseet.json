@@ -1,6 +1,6 @@
 {
-  "Vesion": "1.1.1",
-  "Description": "Aseet（Assist for spreadsheet）は、Excelスプレッドシートの操作を支援するCLIツールです。",
+  "vesion": "1.1.1",
+  "description": "Aseet（Assist for spreadsheet）は、Excelスプレッドシートの操作を支援するCLIツールです。",
   "homepage": "https://github.com/p1tchbend-tool/Aseet",
   "url": "https://github.com/p1tchbend-tool/Aseet/releases/download/1.1.1/aseet.exe",
   "hash": "1ff71ead97957bd32e539d2d1be2462e8897ea1c3d7a389f7fa743ade79c68bc",
