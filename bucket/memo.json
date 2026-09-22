@@ -1,7 +1,7 @@
 {
     "version": "0.0.22",
     "description": "Memo Life For You",
-    "homepage": "https://github.com/mattn/memo/",
+    "homepage": "https://github.com/mattn/memo",
     "license": "MIT",
     "architecture": {
         "64bit": {
