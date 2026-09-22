@@ -4,6 +4,6 @@
     "homepage": "https://github.com/laurent22/massren",
     "license": "MIT",
     "url": "https://github.com/laurent22/massren/releases/download/v1.3.0/massren.win-386.zip",
-    "hash": "62AE070B5718AA61030F431E4DABAE92751F58739CDF9600F60E649A5A820570"
+    "hash": "62AE070B5718AA61030F431E4DABAE92751F58739CDF9600F60E649A5A820570",
     "bin": "massren.exe",
 }
