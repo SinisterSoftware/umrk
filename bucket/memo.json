@@ -9,5 +9,6 @@
             "hash": "5B15F2FFEE23D4504611E47d5C90807B749F589C2E719F1537F8300C70F1472D"
         }
     },
+    "extract_dir": "memo_v0.0.22_windows_amd64",
     "bin": "memo.exe"
 }
