@@ -1,0 +1,24 @@
+{
+    "homepage": "https://ebstudio.info/home/xdoc2txt.html",
+    "description": "PDF,WORD,EXCEL,一太郎などの各種バイナリ文書から、テキスト要素を抽出 する汎用テキストコンバータ",
+    "license": "Freeware",
+    "version": "2.21",
+    "architecture": {
+        "64bit": {
+            "url": "https://ebstudio.info/download/KWICFinder/xd2tx221_x64.zip",
+            "hash": "69b234a88812f10343bdb052a62d146a266f68258741e9f9d646fb856765e66a"
+        }
+    },
+    "bin": "command/xdoc2txt.exe",
+    "checkver": {
+        "url": "https://ebstudio.info/home/xdoc2txt.html ",
+        "re": "xdoc2txt (?<version>[\\d.]+) \\( xd2tx[\\d.]+_x64.zip \\)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://ebstudio.info/download/KWICFinder/xd2tx$cleanVersion_x64.zip"
+            }
+        }
+    }
+}
